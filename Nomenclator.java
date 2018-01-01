@@ -1,8 +1,7 @@
 //
 //  NOMENCLATOR. Read names from a Java source file.
 //
-//    James Moen
-//    04 Dec 17
+//    
 //
 //  The version of 01 Dec 17 could not handle /*...*/ comments that extend over
 //  multiple lines, but this one can.
